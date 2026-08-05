@@ -3,16 +3,17 @@ import java.util.List;
 class Solution {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
         List<Boolean> result = new ArrayList<>();
-        for(int i=0;i<candies.length;i++){
-            boolean check=true;
-            for(int j=0;j<candies.length;j++){
-                if((candies[i]+extraCandies)<candies[j]){
-                    check=false;
-                }
+        int max=candies[0];
+        for(int i=1;i<candies.length;i++){
+            if(candies[i]>max){
+                max=candies[i];
             }
-            result.add(check);
+        }
+        for(int i=0;i<candies.length;i++){
+            result.add((candies[i]+extraCandies)>=max);
         }
         return result;
+
         
     }
 }
