@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Math
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/1732-find-the-highest-altitude) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
