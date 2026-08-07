@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0035-search-insert-position) |
 | [0500-keyboard-row](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0500-keyboard-row) |
 | [0704-binary-search](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -55,5 +56,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
