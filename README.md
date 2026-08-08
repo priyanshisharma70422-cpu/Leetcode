@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0500-keyboard-row](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0500-keyboard-row) |
 | [0704-binary-search](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
