@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0500-keyboard-row](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0500-keyboard-row) |
 | [0704-binary-search](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
