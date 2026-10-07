@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1920-build-array-from-permutation](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
