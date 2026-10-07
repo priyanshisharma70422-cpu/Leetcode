@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1672-richest-customer-wealth](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
 | ------- |
