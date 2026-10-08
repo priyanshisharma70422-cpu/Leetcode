@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0500-keyboard-row) |
 | [0709-to-lower-case](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -114,5 +116,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/priyanshisharma70422-cpu/Leetcode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
