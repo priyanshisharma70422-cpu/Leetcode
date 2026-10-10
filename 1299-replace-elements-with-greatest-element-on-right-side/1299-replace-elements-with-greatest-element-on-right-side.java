@@ -4,17 +4,16 @@ class Solution {
         for(int i=0;i<arr.length;i++){
             copy[i]=arr[i];
         }
+        
         for(int i=0;i<arr.length;i++){
-           int max=-1;
+            int max=-1;
             for(int j=i+1;j<arr.length;j++){
-                if (max<copy[j]){
+                if(copy[j]>max){
                     max=copy[j];
-                }          
+                }
             }
             arr[i]=max;
-            
         }
         return arr;
-        
     }
 }
